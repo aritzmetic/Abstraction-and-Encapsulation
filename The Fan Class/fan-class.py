@@ -9,11 +9,15 @@ class Fan:
 
     # ■ A constructor that creates a fan with the specified speed (default SLOW), radius (default 5), color (default blue), and on (default False).
     def __init__(self, speed=SLOW, radius=5, color="blue", on=False):
-        pass
-# ■ A private int data field named speed that specifies the speed of the fan.
-# ■ A private bool data field named on that specifies whether the fan is on (the default is False).
-# ■ A private float data field named radius that specifies the radius of the fan.
-# ■ A private string data field named color that specifies the color of the fan.
+        # ■ A private int data field named speed that specifies the speed of the fan.
+        self.__speed = speed
+        # ■ A private bool data field named on that specifies whether the fan is on (the default is False).
+        self.__on = on
+        # ■ A private float data field named radius that specifies the radius of the fan.
+        self.__radius = radius
+        # ■ A private string data field named color that specifies the color of the fan.
+        self.__color = color
+        
 # ■ The accessor(getters)  and mutator(setters)  methods for all four data fields.
 # ■ A constructor that creates a fan with the specified speed (default SLOW), radius (default 5), color (default blue), and on (default False).
 
