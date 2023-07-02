@@ -1,9 +1,13 @@
 # Delera, Aritz B.
 
+from fan import Fan
+
+# create a testfan class
+
 # For the first object, 
 # assign the maximum speed, 
 # radius 10, 
-# color yellow, and 
+# color yellow, and  
 # turn it on. 
 
 # for the second object,
