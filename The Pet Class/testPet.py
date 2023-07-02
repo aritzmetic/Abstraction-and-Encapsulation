@@ -102,20 +102,3 @@ class TestPet:
         time.sleep(3)
         print()
 
-
-test_pet = TestPet()
-
-while True:
-    test_pet.user_prompt()
-    test_pet.display_pet_information()
-    test_pet.display_random_trivia()
-    test_pet.display_current_date()
-
-    choice = input("Do you want to have another pet? (yes/no): ")
-    if choice.lower() != "yes":
-        time.sleep(1)
-        print("\033[35mThank you for using the AritzMetic Pet Creator. Your Dream Pet Information has been stored to another file! May your dreams be filled with extraordinary pets!💡\033[0m")
-        print()
-        f = Figlet(font='doom')
-        print(colored(f.renderText('=THE END='), 'green'))
-        break
