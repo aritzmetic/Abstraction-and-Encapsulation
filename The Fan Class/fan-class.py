@@ -17,9 +17,31 @@ class Fan:
         self.__radius = radius
         # ■ A private string data field named color that specifies the color of the fan.
         self.__color = color
-        
-# ■ The accessor(getters)  and mutator(setters)  methods for all four data fields.
-# ■ A constructor that creates a fan with the specified speed (default SLOW), radius (default 5), color (default blue), and on (default False).
+
+    # ■ The accessor(getters)  and mutator(setters)  methods for all four data fields.
+    def get_speed(self):
+        return self.__speed
+
+    def set_speed(self, speed):
+        self.__speed = speed
+
+    def is_on(self):
+        return self.__on
+
+    def set_on(self, on):
+        self.__on = on
+
+    def get_radius(self):
+        return self.__radius
+
+    def set_radius(self, radius):
+        self.__radius = radius
+
+    def get_color(self):
+        return self.__color
+
+    def set_color(self, color):
+        self.__color = color
 
 # For the first object, 
 # assign the maximum speed, 
