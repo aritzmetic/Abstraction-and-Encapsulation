@@ -4,7 +4,7 @@
 class Fan:
 # ■ Three constants named SLOW, MEDIUM, and FAST with the values 1, 2, and 3 to denote the fan speed.
     SLOW = 1
-    MEDUIM = 2
+    MEDIUM = 2
     FAST = 3
 
     # ■ A constructor that creates a fan with the specified speed (default SLOW), radius (default 5), color (default blue), and on (default False).
