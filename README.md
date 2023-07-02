@@ -24,6 +24,10 @@ _**How to run this program using IDE?**_
 > 3. Use getter and setter methods to access and modify fan properties.
 > 4. Run the program by instantiating the TestFan class and calling the testrun() method.
 
+
+https://github.com/aritzmetic/Abstraction-and-Encapsulation/assets/112628197/41a19b3c-f0c0-44c2-9608-91feab84a440
+
+
 ### **AritzMetic's Car Tester.**
 _**Attributes**_
 _The Car Tester program enables users to design and evaluate their ideal automobiles. It employs object-oriented programming concepts and provides acceleration and braking functionality._ 
@@ -38,6 +42,10 @@ _**How to run this program using IDE?**_
 > 2. Create an instance of the testCar class.
 > 3. Run the run() method of the testCar object inside a loop to create and test multiple cars.
 > 4. After each test, choose to continue testing or exit the program.
+
+
+https://github.com/aritzmetic/Abstraction-and-Encapsulation/assets/112628197/b8af0a7d-f8a1-4e75-bd5c-0647dec6fffc
+
 
 ### **The AritzMetic Pet Creator.**
 _**Attributes**_
@@ -55,4 +63,10 @@ _**How to run this program using IDE?**_
 > 4. The program will display the pet's details, random pet trivia, and the current date.
 > 5. Choose to create another pet or exit the program.
 
+
+https://github.com/aritzmetic/Abstraction-and-Encapsulation/assets/112628197/9f474bb3-ba57-4b66-b70b-4213b3e50adf
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**_You are free to get in touch with me, @aritzmetic,  or to report problems directly on this repository if you discover problems with the project. Check out our [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) if you are interested in doing more to help the development of the project. Thank you!_** 
 
