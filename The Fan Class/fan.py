@@ -1,5 +1,3 @@
-# Delera, Aritz B.
-
 # (The Fan class).  Design a class named Fan to represent a fan. The class contains:
 class Fan:
 # ■ Three constants named SLOW, MEDIUM, and FAST with the values 1, 2, and 3 to denote the fan speed.

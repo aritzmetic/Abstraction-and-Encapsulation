@@ -1,5 +1,3 @@
-# Delera, Aritz B.
-
 import time
 import pyfiglet
 import random
